@@ -1,0 +1,1 @@
+run on linux with 'javac Main.java' to compile and afterwards 'java Main' to run programm
